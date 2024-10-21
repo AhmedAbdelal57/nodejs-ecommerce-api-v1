@@ -1,0 +1,1 @@
+npm i -D eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-ally eslint-plugin-node eslint-plugin-prettier eslint-plugin-react prettier
